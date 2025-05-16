@@ -1,0 +1,14 @@
+{
+  "Id": "MTAP-NameFavorMarker",
+  "DisplayName": "MTAP-NameFavorMarker",
+  "Author": "naxmefy",
+  "Version": "0.1.0",
+  "ManagerVersion": "0.27.0",
+  "GameVersion": "2.0",
+  "Requirements": [],
+  "LoadAfter": [],
+  "AssemblyName": "MTAP-NameFavorMarker.dll",
+  "EntryMethod": "MTAP_NameFavorMarker.Main.Load",
+  "HomePage": "https://github.com/naxmefy/mtap-namefavormarker",
+  "Repository": "https://github.com/naxmefy/mtap-namefavormarker"
+}
